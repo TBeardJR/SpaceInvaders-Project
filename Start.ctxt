@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ checkMouseClick()
+comment1.text=\r\n\ Check\ if\ the\ mouse\ has\ been\ clicked\ on\ the\ start\ button\r\n\ If\ it\ is\ clicked\ display\ the\ "How\ To\ Play"\ box\r\n
+numComments=2

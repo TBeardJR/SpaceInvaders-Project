@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HowToPlay()
+comment0.text=\r\n\ Create\ a\ score\ board\ with\ dummy\ result\ for\ testing.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=score
+comment2.target=HowToPlay(int)
+comment2.text=\r\n\ Create\ a\ score\ board\ for\ the\ final\ result.\r\n
+comment3.params=title
+comment3.target=void\ makeImage(java.lang.String)
+comment3.text=\r\n\ Make\ the\ score\ board\ image.\r\n
+comment4.params=
+comment4.target=void\ checkMouseClick()
+comment4.text=\r\n\ Check\ if\ the\ mouse\ has\ been\ clicked\ on\ the\ "How\ To\ Play"\ Box\r\n\ If\ it\ has\ been\ clicked\ set\ the\ first\ world\r\n
+numComments=5

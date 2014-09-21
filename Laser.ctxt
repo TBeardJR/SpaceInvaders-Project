@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=speed\ rotation
+comment0.target=Laser(Vector,\ int)
+comment1.params=clss
+comment1.target=boolean\ canSee(java.lang.Class)
+comment1.text=\r\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \r\n\ False\ if\ there\ is\ no\ such\ object\ here.\r\n
+comment2.params=
+comment2.target=void\ removeHealth()
+comment2.text=\r\n\ Remove\ health\ from\ the\ space\ craft\ the\ bullet\ is\ touching\ \ \ \ \r\n
+comment3.params=damage
+comment3.target=void\ setDamage(int)
+comment3.text=\r\n\ Set\ the\ damage\ a\ bullet\ does\ \ \ \ \r\n
+comment4.params=
+comment4.target=int\ getDamage()
+comment4.text=\r\n\ Get\ the\ damage\ a\ bullet\ does\r\n
+numComments=5

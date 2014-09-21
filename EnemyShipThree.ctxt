@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=target
+comment0.target=EnemyShipThree(greenfoot.Actor)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Shoot\ at\ target\ if\ it's\ in\ range.\r\n\ If\ not\ in\ range\ move\ towards\ the\ target\r\n\ If\ this\ enemy\ ship\ doesn't\ have\ any\ health\ remove\ it\ from\ the\ world\r\n
+numComments=2

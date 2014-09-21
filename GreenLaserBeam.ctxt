@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=speed\ rotation
+comment0.target=GreenLaserBeam(Vector,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Remove\ health\ and\ disappear\ if\ this\ laser\ is\ touching\ the\ base\ or\ rocket\r\n\ Otherwise\ Keep\ moving\ in\ same\ direction\r\n\ If\ the\ this\ laser\ is\ at\ the\ edge\ of\ the\ world\ it\ will\ disappear\r\n
+numComments=2

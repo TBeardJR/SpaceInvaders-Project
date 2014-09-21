@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=target
+comment0.target=EnemyShip(greenfoot.Actor)
+comment1.params=target
+comment1.target=void\ setTarget(greenfoot.Actor)
+comment1.text=\r\n\ Set\ the\ target\ for\ this\ actor\r\n
+comment2.params=
+comment2.target=greenfoot.Actor\ getTarget()
+comment2.text=\r\n\ Get\ the\ target\ for\ this\ actor\r\n
+comment3.params=rotation
+comment3.target=void\ moveTowardTarget(int)
+comment3.text=\r\n\ Moves\ toward\ this\ actors\ target.\ \r\n
+comment4.params=enemyShip
+comment4.target=void\ faceTowardTarget(EnemyShip)
+comment4.text=\r\n\ Face\ toward\ this\ actors\ target.\ \ \ \ \ \ \r\n
+comment5.params=range
+comment5.target=boolean\ isTargetInRange(int)
+comment5.text=\r\n\ Returns\ true\ if\ a\ certain\ actor\ is\ within\ the\ specified\ range\r\n\ This\ actor\ becomes\ the\ new\ target\r\n\ If\ no\ actor\ is\ in\ range\ is\ goes\ back\ to\ the\ main\ target\ and\ returns\ false\r\n
+comment6.params=laserType\ gunReloadTime
+comment6.target=void\ shootAtTarget(java.lang.String,\ int)
+comment6.text=\r\n\ Shoots\ laser\ at\ target\r\n
+numComments=7

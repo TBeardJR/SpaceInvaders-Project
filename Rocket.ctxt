@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rocket()
+comment0.text=\r\n\ Initilise\ this\ rocket.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Do\ what\ a\ rocket's\ gotta\ do.\ (Which\ is\:\ mostly\ flying\ about,\ and\ turning,\r\n\ accelerating\ and\ shooting\ when\ the\ right\ keys\ are\ pressed.)\r\n
+comment2.params=
+comment2.target=void\ youWin()
+comment2.text=\r\n\ You\ win.\r\n
+comment3.params=
+comment3.target=int\ getSpeed()
+comment3.text=\r\n\ Return\ the\ approximate\ current\ travelling\ speed\ of\ this\ rocket.\r\n
+comment4.params=
+comment4.target=int\ getLastX()
+comment5.params=
+comment5.target=int\ getLastY()
+comment6.params=
+comment6.target=void\ checkKeys()
+comment6.text=\r\n\ Check\ whether\ there\ are\ any\ key\ pressed\ and\ react\ to\ them.\r\n
+comment7.params=boosterOn
+comment7.target=void\ ignite(boolean)
+comment7.text=\r\n\ Should\ the\ rocket\ be\ ignited?\r\n
+numComments=8

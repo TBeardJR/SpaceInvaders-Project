@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Base()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Base\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=greenfoot.Actor\ find()
+comment2.text=\r\n\ Finds\ specified\ actor\ withing\ a\ certain\ range\r\n\ Returns\ null\ if\ no\ objects\ are\ found\r\n
+comment3.params=
+comment3.target=void\ youLose()
+comment3.text=\r\n\ Change\ the\ world\ to\ YouLose\r\n
+comment4.params=
+comment4.target=void\ shootEnemyShips()
+comment4.text=\r\n\ Shoots\ at\ enemies\ when\ they\ are\ within\ specified\ range\r\n
+comment5.params=
+comment5.target=int\ getLastX()
+comment5.text=\r\n\ Return\ the\ base's\ last\ known\ x\ coordinate\r\n
+comment6.params=
+comment6.target=int\ getLastY()
+comment6.text=\r\n\ Return\ the\ base's\ last\ known\ y\ coordinate\r\n
+numComments=7

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=message\ width\ height\ color\ font
+comment0.target=HUDMessage(java.lang.String,\ int,\ int,\ java.awt.Color,\ java.awt.Font)
+comment0.text=\r\n\ Constructor.\ \ \ \ \ \r\n
+comment1.params=
+comment1.target=HUDMessage()
+comment1.text=\r\n\ Constructor.\ (by\ default)\r\n
+comment2.params=message\ color\ font
+comment2.target=void\ update(java.lang.String,\ java.awt.Color,\ java.awt.Font)
+comment2.text=\r\n\ Updates\ the\ HUD\ message.\ \ \ \ \ \r\n
+comment3.params=x\ y
+comment3.target=void\ updatePosition(int,\ int)
+comment3.text=\r\n\ Updates\ the\ position\ of\ the\ HUD\ message.\ \ \ \ \ \r\n
+comment4.params=width
+comment4.target=void\ setWidth(int)
+comment4.text=\r\n\ Set\ the\ width\ of\ the\ HUD\ message.\ \ \ \ \ \r\n
+comment5.params=height
+comment5.target=void\ setHeight(int)
+comment5.text=\r\n\ Set\ the\ height\ the\ HUD\ message.\ \ \ \ \ \r\n
+comment6.params=
+comment6.target=int\ getWidth()
+comment6.text=\r\n\ Gets\ the\ width\ of\ the\ HUD\ message.\ \ \ \ \ \r\n
+comment7.params=
+comment7.target=int\ getHeight()
+comment7.text=\r\n\ Gets\ the\ height\ of\ the\ HUD\ message.\ \ \ \ \ \r\n
+numComments=8

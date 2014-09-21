@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=target
+comment0.target=EnemyShipSix(greenfoot.Actor)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Shoot\ at\ base\ \ \ \ \ \r\n\ If\ this\ enemy\ ship\ doesn't\ have\ any\ health\ remove\ it\ from\ the\ world\r\n\ Spawn\ 5\ EnemyShips\ every\ 15\ seconds\r\n
+comment2.params=
+comment2.target=void\ spawnReinforcements()
+comment2.text=\r\n\ Spawn\ 5\ Random\ enemy\ ships\r\n
+comment3.params=clss
+comment3.target=java.lang.Object\ createEnemyShip(java.lang.Class)
+comment3.text=\r\n\ Gets\ the\ contructors\ of\ the\ specified\ class\r\n\ Returns\ a\ new\ object\ created\ with\ the\ appropriate\ constructor\r\n
+numComments=4

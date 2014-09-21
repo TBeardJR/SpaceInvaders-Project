@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PowerUp()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=image
+comment2.target=void\ setPowerUpImage(greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getPowerUpImage()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage[]\ getPowerUpImages()
+comment5.params=spaceCraft
+comment5.target=void\ restoreHealth(SpaceCraft)
+comment6.params=spaceCraft
+comment6.target=void\ increaseFireRate(SpaceCraft)
+comment7.params=spaceCraft
+comment7.target=void\ setInvincibility(SpaceCraft)
+comment8.params=clss
+comment8.target=boolean\ canSee(java.lang.Class)
+comment8.text=\r\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \r\n\ False\ if\ there\ is\ no\ such\ object\ here.\r\n
+numComments=9
